@@ -67,6 +67,10 @@ For more information see [LICENSE](LICENSE)
 
 ## Videos
 
+flutter
+https://subscription.packtpub.com/video/programming/9781789951998
+https://github.com/PacktPublishing/Learn-Flutter-and-Dart-to-Build-iOS-and-Android-Apps
+
 angular
 https://subscription.packtpub.com/video/application_development/9781788998437
 https://github.com/PacktPublishing/Angular-8---The-Complete-Guide
