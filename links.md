@@ -115,7 +115,13 @@ https://subscription.packtpub.com/video/programming/9781839219474
 
 https://subscription.packtpub.com/video/application_development/9781788998659
 
+refactor
+https://subscription.packtpub.com/video/application_development/9781788836418
+https://github.com/PacktPublishing/Refactoring-Python-Code-v-
 
+refactor java
+https://subscription.packtpub.com/video/programming/9781800563414
+https://github.com/PacktPublishing/Pyramid-of-Refactoring-Java---Clean-Code-Gradually
 
 
 
@@ -143,7 +149,8 @@ https://subscription.packtpub.com/video/application_development/9781786460387
 https://subscription.packtpub.com/video/application_development/9781788834063
 https://subscription.packtpub.com/video/programming/9781839219474
 https://subscription.packtpub.com/video/application_development/9781788998659
-
+https://subscription.packtpub.com/video/application_development/9781788836418
+https://subscription.packtpub.com/video/programming/9781800563414
 
 
 !./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/programming/9781839217289" # python
@@ -167,3 +174,12 @@ https://subscription.packtpub.com/video/application_development/9781788998659
 !./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781788834063"
 !./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/programming/9781839219474"
 !./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781788998659"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781788836418"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/programming/9781800563414"
+
+!cp -r 'Comprehensive Ruby Programming [Video]' '/content/drive/Shared drives/Vault Storage'
+!cp -r 'Expert Ruby on Rails 5 [Video]' '/content/drive/Shared drives/Vault Storage'
+!cp -r 'Learn to Code with Ruby [Video]' '/content/drive/Shared drives/Vault Storage'
+!cp -r 'Pyramid of Refactoring (Java) - Clean Code Gradually [Video]' '/content/drive/Shared drives/Vault Storage'
+!cp -r 'Refactoring Python Code [Video]' '/content/drive/Shared drives/Vault Storage'
+!cp -r 'Testing Ruby with RSpec: The Complete Guide [Video]' '/content/drive/Shared drives/Vault Storage'
