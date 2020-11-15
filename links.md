@@ -81,3 +81,89 @@ https://github.com/PacktPublishing/Accelerated-ES6-Training-
 javascript
 https://subscription.packtpub.com/video/application_development/9781789957709
 https://github.com/PacktPublishing/Accelerated-JavaScript-Training
+
+tensorflow
+https://subscription.packtpub.com/video/data/9781789959161
+https://github.com/PacktPublishing/Practical-Machine-Learning-with-TensorFlow-2.0-and-Scikit-Learn
+
+mlpython
+https://subscription.packtpub.com/video/application_development/9781789953725
+
+mlrealworld
+https://subscription.packtpub.com/video/data/9781838985363
+https://github.com/PacktPublishing/Machine-Learning-with-Real-World-Projects
+
+mldatascience
+https://subscription.packtpub.com/video/application_development/9781838980689
+https://github.com/PacktPublishing/Machine-Learning-and-Data-Science-with-Python-A-Complete-Beginners-Guide
+
+rails
+https://subscription.packtpub.com/video/application_development/9781789959321
+https://github.com/PacktPublishing/Professional-Ruby-on-Rails-Developer-with-Rails-5
+
+https://subscription.packtpub.com/video/application_development/9781787123946
+
+https://subscription.packtpub.com/video/web_development/9781787122635
+
+https://subscription.packtpub.com/video/application_development/9781786460387
+
+ruby
+https://subscription.packtpub.com/video/application_development/9781788834063
+
+rspec
+https://subscription.packtpub.com/video/programming/9781839219474
+
+https://subscription.packtpub.com/video/application_development/9781788998659
+
+
+
+
+
+
+
+
+https://subscription.packtpub.com/video/programming/9781839217289  # python
+https://subscription.packtpub.com/video/application_development/9781789958829 # angularfull
+https://subscription.packtpub.com/video/web_development/9781789135770 # pwa
+https://subscription.packtpub.com/video/virtualization_and_cloud/9781789954340 # awsapi
+https://subscription.packtpub.com/video/application_development/9781788992817 # vue
+https://subscription.packtpub.com/video/web_development/9781838988937 # svelte
+https://subscription.packtpub.com/video/web_development/9781789959734 # es6
+https://subscription.packtpub.com/video/application_development/9781789957709 # javascript
+https://subscription.packtpub.com/video/data/9781789959161 # tensorflow
+https://subscription.packtpub.com/video/application_development/9781789953725 # mlpython
+https://subscription.packtpub.com/video/data/9781838985363 # mlrealworld
+https://subscription.packtpub.com/video/application_development/9781838980689 # mldatascience
+
+
+https://subscription.packtpub.com/video/application_development/9781789959321
+https://subscription.packtpub.com/video/application_development/9781787123946
+https://subscription.packtpub.com/video/web_development/9781787122635
+https://subscription.packtpub.com/video/application_development/9781786460387
+https://subscription.packtpub.com/video/application_development/9781788834063
+https://subscription.packtpub.com/video/programming/9781839219474
+https://subscription.packtpub.com/video/application_development/9781788998659
+
+
+
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/programming/9781839217289" # python
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781789958829" # angularfull
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/web_development/9781789135770" # pwa
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/virtualization_and_cloud/9781789954340" # awsapi
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781788992817" # vue
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/web_development/9781838988937" # svelte
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/web_development/9781789959734" # es6
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781789957709" # javascript
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/data/9781789959161" # tensorflow
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781789953725" # mlpython
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/data/9781838985363" # mlrealworld
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781838980689" # mldatascience
+
+
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781789959321"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781787123946"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/web_development/9781787122635"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781786460387"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781788834063"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/programming/9781839219474"
+!./pvdl.py -u arif.ikhsanudin.id@gmail.com -p qFEV@ALF2uSUn2C -l "https://subscription.packtpub.com/video/application_development/9781788998659"
